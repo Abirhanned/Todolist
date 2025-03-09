@@ -14,13 +14,13 @@ Une application simple en Java pour gérer des tâches avec sauvegarde en JSON v
 ---
 
 ##  **Installation**
-### 1⃣ **Cloner le projet**
+### **Cloner le projet**
 ```sh
 git clone https://github.com/votre-repo/todolist-java.git
 cd todolist-java
 ```
 
-### 2⃣ **Ajouter Gson à votre projet**
+### **Ajouter Gson à votre projet**
 Si vous utilisez **Maven**, ajoutez la dépendance suivante à votre fichier `pom.xml` :
 ```xml
 <dependencies>
@@ -34,7 +34,7 @@ Si vous utilisez **Maven**, ajoutez la dépendance suivante à votre fichier `po
 
 Si vous n'utilisez pas Maven, téléchargez `gson-2.10.1.jar` depuis [ici](https://mvnrepository.com/artifact/com.google.code.gson/gson) et ajoutez-le au classpath de votre projet.
 
-### 3⃣ **Compiler et exécuter le projet**
+### **Compiler et exécuter le projet**
 Utilisez Maven pour compiler et exécuter :
 ```sh
 mvn compile
