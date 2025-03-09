@@ -64,16 +64,6 @@ Une fois le programme lancé, vous pouvez entrer différentes commandes pour gé
 | `list`             | Afficher la liste des tâches (toutes ou par statut) |
 | `exit`             | Quitter l'application |
 
-##  **Structure du Projet**
-```
-/todolist-java
-│── src
-│   ├── Todolist.java          # Code principal de l'application
-│   ├── LocalDateTimeAdapter.java # Adaptateur Gson pour gérer LocalDateTime
-│── tasks.json                 # Fichier de sauvegarde des tâches
-│── pom.xml                    # Configuration Maven
-│── README.md                  # Documentation du projet
-```
 
 ---
 
